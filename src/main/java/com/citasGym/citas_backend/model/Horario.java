@@ -25,5 +25,5 @@ public class Horario {
     @Column(nullable = false)
     private LocalTime horaFin;
 
-    private boolean disponible=true;
+    private Boolean disponible=true;
 }

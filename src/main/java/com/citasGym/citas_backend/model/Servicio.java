@@ -35,5 +35,5 @@ private String descripcion;
 
     private BigDecimal precio;
 
-    private boolean activo=true;
+    private Boolean activo=true;
 }
